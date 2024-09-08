@@ -3,6 +3,8 @@
 ## Description
 This script scrapes scholarship information from the Grambling State University financial aid website and writes it to an Excel file.
 
+![Result](https://github.com/Jemajr/Web-Scraper-GSU-Scholarship-Info-/blob/main/images/Scholarships_Excel.png "Result")
+
 ## How it Works
 1. Sends a GET request to the URL:  [https://www.gram.edu/finaid/scholarships/privatescholar.php](https://www.gram.edu/finaid/scholarships/privatescholar.php)
 2. Parses the HTML content using BeautifulSoup.
