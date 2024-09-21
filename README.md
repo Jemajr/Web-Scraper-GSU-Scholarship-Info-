@@ -1,7 +1,7 @@
 # Scholarship Scraper and Excel Writer
 
 ## Description
-This script scrapes scholarship information from the Grambling State University financial aid website and writes it to an Excel file.
+This script scrapes scholarship information from the Grambling State University financial aid (Private Scholarships, which was initially hard to find) website and writes it to an Excel file.
 
 
 ![Result](https://github.com/Jemajr/Web-Scraper-GSU-Scholarship-Info-/blob/main/images/Scholarships_Excel.png "Result")
